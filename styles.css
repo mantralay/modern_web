@@ -41,3 +41,18 @@ a{
     font-size: large;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+.welcome{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+
+}
+
+.grid-container{
+    border: 2px solid black;
+    left: 10%;
+    height: 40vh;
+    width: 20vw;
+    
+}
